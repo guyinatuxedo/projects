@@ -3,6 +3,7 @@
 This is where I keep track of my projects.
 
 ```
+Sqlite3 reversing/vr - https://github.com/guyinatuxedo/sqlite3Docs
 CTF Autopwner			-	https://github.com/guyinatuxedo/remenissions
 Leetcode problem solutions	-	https://github.com/guyinatuxedo/what_the_dead_men_say
 CCDC/Sysadmin Guides		-	https://github.com/guyinatuxedo/dawn-guard
